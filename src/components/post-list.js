@@ -4,8 +4,8 @@ import { Link } from "gatsby";
 import Tags from "./tags";
 
 const PostList = ({ posts }) => {
-  const PostList = posts.map(({ frontmatter, fields, excerpt, timeToRead }) => {
-    const { title, tags, date, description } = frontmatter;
+    const PostList = posts.map(({ frontmatter, fields, excerpt, timeToRead }) => {
+    const { title, tags, date, description, specialPost } = frontmatter;
     const { slug } = fields;
 
     return (
@@ -34,6 +34,7 @@ const PostListItem = ({
   tags,
   excerpt,
   description,
+  specialPost,
   slug,
 }) => {
   return (

@@ -18,6 +18,7 @@ const HomePage = ({ data }) => {
         }}
       />
 
+      <SpecialPost posts={posts} />
       <PostList posts={posts} />
       <StyledLink
         css={`
@@ -83,6 +84,7 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           description
           title
+          specialPost
           tags
         }
       }
