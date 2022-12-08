@@ -1,6 +1,7 @@
 ---
 title: Nobody normal ever accomplished anything meaningful in this world
 date: 2021-01-21
+specialPost: true
 tags: [stranger things, tv series]
 social_image: '/media/rocket.jpg'
 ---

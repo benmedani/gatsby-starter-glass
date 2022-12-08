@@ -35,6 +35,7 @@ collections:
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Social Image', name: 'social_image', widget: 'image', required: false }
       - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'This Post is special', name: 'specialPost', widdget: 'boolean', default: true}
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
 
   - name: "pages"

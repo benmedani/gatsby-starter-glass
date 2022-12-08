@@ -6,6 +6,7 @@ tags:
   - tv series
   - "2022"
 social_image: /media/rocket.jpg
+specialPost: true
 description: This is a custom description for SEO and Open Graph purposes. If
   it's not provided, it defaults to auto-generated excerpts of the page content.
 ---

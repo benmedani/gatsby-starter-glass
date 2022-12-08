@@ -2,6 +2,7 @@
 title: One World
 date: 2020-02-01
 tags: [space, earth, moon]
+specialPost: true
 social_image: '/media/rocket.jpg'
 ---
 

@@ -3,6 +3,7 @@ title: Magnificent Desolation
 date: 2021-02-22
 tags: [space, nasa]
 social_image: '/media/rocket.jpg'
+specialPost: true
 description: This is a custom description for SEO and Open Graph purposes. If it's not provided, it defaults to auto-generated excerpts of the page content.
 ---
 
