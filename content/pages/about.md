@@ -1,5 +1,5 @@
 ---
-title: About
+title: Über Mich
 template: about-template
 profile_image: /media/profile-image.jpg
 ---
