@@ -1,6 +1,6 @@
 ---
 title: Do you know anything about sensory deprivation tanks?
-date: 2021-02-02
+date: 2021-12-08
 tags:
   - stranger things
   - tv series
