@@ -1,5 +1,7 @@
 backend:
   name: git-gateway
+  accept-roles: 
+    - admin
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
