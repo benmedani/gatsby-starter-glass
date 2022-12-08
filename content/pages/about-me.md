@@ -1,6 +1,7 @@
 ---
 title: "About me "
 template: about-template
+profile_image: /media/profile-image.jpg
 ---
 ## Wer bin ich
 
