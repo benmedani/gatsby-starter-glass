@@ -11,7 +11,7 @@ const Footer = () => {
 
         <FooterAttribution>
           Hand-crafted with love by{' '}
-          <a href="#">Galahad Design</a>
+          <a href="mailto:galahad@gmail.com">Galahad Design</a>
         </FooterAttribution>
       </FooterWrapper>
     </StyledFooter>
