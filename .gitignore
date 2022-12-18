@@ -70,3 +70,7 @@ yarn-error.log
 
 # Local Netlify folder
 .netlify
+
+# temporary add lock files
+yarn.lock
+package-lock.json
