@@ -2,6 +2,7 @@ import React from 'react';
 import { graphql, Link } from 'gatsby';
 import Layout from '../components/layout';
 import PostList from '../components/post-list';
+import SpecialPostList from '../components/special-post';
 import styled from 'styled-components';
 
 const Blog = ({ data }) => {
@@ -24,6 +25,7 @@ const Blog = ({ data }) => {
         </Link>
       </HeaderWrapper>
 
+      <SpecialPostList posts={posts} />
       <PostList posts={posts} />
     </Layout>
   );

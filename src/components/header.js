@@ -17,6 +17,11 @@ const HEADER_NAV_ITEM = [
     isExternal: false,
   },
   {
+    label: "Dienste",
+    url: "/services",
+    isExternal: false,
+  },
+  {
     label: "Contact",
     url: "/contact",
     isExternal: false,
