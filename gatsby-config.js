@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Hladik Beratung`,
     author: {
-      name: `Yinka Adedire`,
+      name: `Benedikt Schoeffmann`,
       summary: `Self-taught front-end web dev. JAMStack.`,
     },
     openGraphImage: `open-graph-image.png`,
