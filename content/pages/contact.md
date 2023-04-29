@@ -1,6 +1,7 @@
 ---
-title: 'Contact Me'
-template: 'contact-template'
+title: Contact Me
+template: contact-template
+profile_image: /media/eye_1619.jpg
 ---
 
 # Get in Touch.
