@@ -61,10 +61,11 @@ const PostListItem = ({
 const StyledPostList = styled.ul`
   padding: 0;
   list-style: none;
-  display: grid;
+  // display: grid;
+  display: block;
   justify-items: center;
-  grid-gap: var(--size-600);
-  grid-template-columns: repeat(auto-fit, minmax(35ch, 1fr));
+  // grid-gap: var(--size-600);
+  // grid-template-columns: repeat(auto-fit, minmax(35ch, 1fr));
 
   @media screen and (max-width: 500px) {
     & {
@@ -76,6 +77,7 @@ const StyledPostList = styled.ul`
 const StyledPostListItem = styled.li`
   display: flex;
   padding: 1.5rem;
+  margin-bottom: 15px;
   border-radius: 8px;
   position: relative;
   flex-direction: column;
